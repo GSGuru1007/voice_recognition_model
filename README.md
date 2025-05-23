@@ -20,4 +20,3 @@ A real-time voice recognition system built with Python, RAG (Retrieval-Augmented
 - RAG (for prompt generation if integrated)
 - NumPy, SciPy, base64
 
-## Project Structure
